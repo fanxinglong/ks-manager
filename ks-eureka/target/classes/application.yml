@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ks-eureka
+
+eureka:
+  client:
+    register-with-eureka: false #不将自己注册到eureka上
+    fetch-registry: false #发现注册中心的过程
+
+server:
+  port: 8761

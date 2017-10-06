@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ks-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-uc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-zuul" charset="UTF-8" />
   </component>
 </project>
